@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668145477308",
+    "project_id": "amsa-847ab",
+    "storage_bucket": "amsa-847ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668145477308:android:fa49a91655c423c1b652b9",
+        "android_client_info": {
+          "package_name": "com.example.ams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYY_hmBqTGVPtTGxdN62eRtL5RUl_rDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
